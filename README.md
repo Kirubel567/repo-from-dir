@@ -1,2 +1,1 @@
-# repo-from-dir
-I created this repo from dir to github
+this is the content changed from dir to github to the readme file
